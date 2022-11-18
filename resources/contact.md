@@ -24,7 +24,7 @@ LINKS
 
 ​[Discord](https://discord.gg/layer2dao)​
 
-Emails: [\[email protected\]](<.gitbook/assets/email protection>), [\[email protected\]](<.gitbook/assets/email protection>)
+Emails: [\[email protected\]](<../.gitbook/assets/email protection>), [\[email protected\]](<../.gitbook/assets/email protection>)
 
 
 

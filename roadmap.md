@@ -1,4 +1,4 @@
-# Roadmap
+# 🗺 Roadmap
 
 The first few months since launch have been exciting and we are working hard to continue to build the future of Layer2DAO. Here is the roadmap for growing the DAO for the first 12 months:
 
