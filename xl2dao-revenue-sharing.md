@@ -1,0 +1,3 @@
+# xL2DAO Revenue Sharing
+
+Your total amount of xL2DAO depends on 2 inputs: the amount of L2DAO you stake, and how long you lock up your L2DAO tokens. The longer you lock up your tokens, the higher your proportional share of xL2DAO and the larger your percentage claim and voting power. The most you can lock your tokens up for is 24 months. If you lock up 1 L2DAO for 24 months, you receive 1 xL2DAO. If you lock up 1 L2DAO for 12 months, you receive 0.5 xL2DAO, and so on. Once your L2DAO is locked up, there is no way to unlock it until the lock period has expired. Be certain that you don’t need access to your L2DAO before you lock it up!
