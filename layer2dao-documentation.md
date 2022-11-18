@@ -2,6 +2,8 @@
 description: >-
   Layer2DAO is a decentralized autonomous organization focused on driving the
   the adoption of the Layer2 Ethereum ecosystem.
+cover: .gitbook/assets/Layer2DAOBanner.png
+coverY: 0
 ---
 
 # 📚 Layer2DAO Documentation
