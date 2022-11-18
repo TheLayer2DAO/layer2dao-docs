@@ -2,9 +2,9 @@
 
 * [📚 Layer2DAO Documentation](README.md)
 * [Projects](projects.md)
-* [Our Strategy](our-strategy.md)
+* [🎯 Our Strategy](our-strategy.md)
 * [Investments](investments.md)
-* [Layer2DAO Documentation](layer2dao-documentation-1.md)
+* [Layer2DAO Documentation](layer2dao-documentation-2.md)
 * [Roadmap](roadmap.md)
 * [Tokenomics](tokenomics.md)
 * [Airdrop](airdrop.md)
