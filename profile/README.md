@@ -15,7 +15,7 @@ Partnerships with other protocols evolve past simple co-marketing and sharing of
 
 ## 🧙  Where can I learn more?
 Join Layer2DAO and learn more at our:
-* [Discord](https://discord.gg/PTKzgswQRX)
+* [Discord](https://discord.gg/layer2dao)
 * [Docs](https://docs.layer2dao.org/)
 * [Twitter](https://twitter.com/TheLayer2DAO)
 
