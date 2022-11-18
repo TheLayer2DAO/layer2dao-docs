@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Page 1](README.md)
-* [Layer2DAO Documentation](layer2dao-documentation.md)
+* [📚 Layer2DAO Documentation](layer2dao-documentation.md)
 * [Projects](projects.md)
 * [Our Strategy](our-strategy.md)
 * [Investments](investments.md)
