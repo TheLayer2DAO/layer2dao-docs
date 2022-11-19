@@ -1,4 +1,4 @@
-# Media Assets
+# 🎬 Media Assets
 
 * Use the Layer2DAO logo in its original form.
 * Do not place the Layer2DAO logo on backgrounds that provide insufficient contrast.

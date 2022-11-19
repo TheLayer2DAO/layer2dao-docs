@@ -1,4 +1,4 @@
-# Disclaimers
+# ⚠ Disclaimers
 
 There are no owners, partners, shareholders or equivalent legal terms in our DAO. The DAO is not an investment, investment vehicle, stock, security bond or any other type of traditional finance model as recognized by the SEC or other regulatory organization. Token holders are not acting as members of an unincorporated association by participating in governance votes.
 

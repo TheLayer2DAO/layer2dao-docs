@@ -1,4 +1,4 @@
-# Team
+# 🫂 Team
 
 This is the Layer2DAO team. As we grow and decentralize the DAO, we will be looking to add new team members. Layer2DAO is currently looking for talented individuals, so if you believe you could add value to the DAO, please get in touch!
 
