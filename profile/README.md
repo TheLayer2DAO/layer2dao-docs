@@ -27,3 +27,10 @@ This repository contains the smart contracts for $L2DAO, as well as DAO improvem
 * L2DAO Token (Arbitrum): [0x2CaB3abfC1670D1a452dF502e216a66883cDf079](https://arbiscan.io/token/0x2CaB3abfC1670D1a452dF502e216a66883cDf079)
 * L2DAO Token (Optimism): [0xd52f94df742a6f4b4c8b033369fe13a41782bf44](https://optimistic.etherscan.io/token/0xd52f94df742a6f4b4c8b033369fe13a41782bf44)
 * L2DAO Tokenlock: [0x90dfEfDc18FC0Ecd356b69b3fC21Ffef5896FA8D](https://arbiscan.io/address/0x90dfEfDc18FC0Ecd356b69b3fC21Ffef5896FA8D)
+
+## Treasury Addresses 
+* Arbitrum 1: [0x5318f07A3a20A2f8bb0DDf14F1DD58C517a76508](https://arbiscan.io/address/0x5318f07A3a20A2f8bb0DDf14F1DD58C517a76508) 
+* Optimism 1: [0xaF5a0068f5465260A1a88A6264D0dcE4469609CF](https://optimistic.etherscan.io/address/0xaF5a0068f5465260A1a88A6264D0dcE4469609CF)
+* Arbitrum 2: [0x7e513bc17073a12bccf1e3dc117c29447f702492](https://arbiscan.io/address/0x7E513Bc17073A12BcCf1E3dc117C29447F702492)
+* Optimism 2: [0x79FF559431891cfa36Fa1E7589c845F2B8831201](https://optimistic.etherscan.io/address/0x79ff559431891cfa36fa1e7589c845f2b8831201)
+* Optimism 3: [0x5318f07A3a20A2f8bb0DDf14F1DD58C517a76508](https://optimistic.etherscan.io/address/0x5318f07a3a20a2f8bb0ddf14f1dd58c517a76508)
