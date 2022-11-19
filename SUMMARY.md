@@ -3,7 +3,7 @@
 * [📚 Layer2DAO Documentation](README.md)
 * [🎯 Our Strategy](our-strategy.md)
 * [🗺 Roadmap](roadmap.md)
-* [📈 Investments](investments.md)
+* [💰 Investments](investments.md)
 * [💰 Tokenomics](tokenomics/README.md)
   * [xL2DAO Revenue Sharing](tokenomics/xl2dao-revenue-sharing.md)
   * [Liquidity Incentives](tokenomics/liquidity-incentives.md)
