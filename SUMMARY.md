@@ -9,7 +9,7 @@
   * [💧 Liquidity Incentives](tokenomics/liquidity-incentives.md)
   * [Governance](tokenomics/governance.md)
   * [Why Arbitrum?](tokenomics/why-arbitrum.md)
-  * [Airdrop](tokenomics/airdrop.md)
+  * [🎁 Airdrop](tokenomics/airdrop.md)
   * [Where to Purchase $L2DAO](tokenomics/where-to-buy-usdl2dao.md)
 * [✅ Resources](resources/README.md)
   * [Layer2DAO Smart Contracts](resources/layer2dao-smart-contracts.md)

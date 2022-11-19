@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/Layer2DAOBanner.png
-coverY: 0
----
-
 # Why Arbitrum?
 
 The Layer2DAO token ($L2DAO) will initially make is home on the Arbitrum network, with plans to expand to other L2s. This will be necessary in order to offer token incentives for projects on other L2s.
