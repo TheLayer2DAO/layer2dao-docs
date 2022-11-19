@@ -6,7 +6,7 @@
 * [💰 Investments](investments.md)
 * [💰 Tokenomics](tokenomics/README.md)
   * [🚀 xL2DAO Revenue Sharing](tokenomics/xl2dao-revenue-sharing.md)
-  * [Liquidity Incentives](tokenomics/liquidity-incentives.md)
+  * [💧 Liquidity Incentives](tokenomics/liquidity-incentives.md)
   * [Airdrop](tokenomics/airdrop.md)
   * [Governance](tokenomics/governance.md)
   * [Why Arbitrum?](tokenomics/why-arbitrum.md)
