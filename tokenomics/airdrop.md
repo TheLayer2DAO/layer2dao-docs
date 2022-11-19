@@ -1,10 +1,13 @@
-# Airdrop
+---
+cover: ../.gitbook/assets/Layer2DAOBanner.png
+coverY: 0
+---
 
-Our airdrop concluded on February 28, 2022. Claiming is not possible anymore.
+# 🎁 Airdrop
+
+## Our airdrop concluded on February 28, 2022. Claiming is not possible anymore.
 
 #### &#x20;<a href="#where-can-i-claim-the-airdrop" id="where-can-i-claim-the-airdrop"></a>
-
-#### &#x20;<a href="#who-is-eligible-for-the-airdrop" id="who-is-eligible-for-the-airdrop"></a>
 
 The purpose of the airdrop on Arbitrum is to distribute the Layer2DAO governance tokens ($L2DAO) to early adopters of the top ten Layer 2 projects by TVL, as ranked by [https://l2beat.com/](https://l2beat.com/) on January 15, 2022:
 
