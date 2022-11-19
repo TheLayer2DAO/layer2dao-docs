@@ -19,7 +19,7 @@
   * [⚠ Disclaimers](resources/disclaimers.md)
   * [📃 Layer2DAO Smart Contracts](resources/layer2dao-smart-contracts.md)
 * [🏗 Projects](projects/README.md)
-  * [L2 Early Adopter NFT](projects/l2-early-adopter-nft.md)
+  * [🍇 L2 Early Adopter NFT](projects/l2-early-adopter-nft.md)
   * [🔴 Optimism Governance Fund](projects/optimism-governance-fund.md)
   * [2⃣ .L2 Domain Names](projects/.l2-domain-names.md)
 * [🔗 Links](links/README.md)
