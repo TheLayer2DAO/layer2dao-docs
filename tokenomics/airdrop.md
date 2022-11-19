@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Layer2DAOBanner.png
+coverY: 0
+---
+
 # 🎁 Airdrop
 
 ## Our airdrop concluded on February 28, 2022. Claiming is not possible anymore.
