@@ -8,7 +8,7 @@
   * [🚀 xL2DAO Revenue Sharing](tokenomics/xl2dao-revenue-sharing.md)
   * [💧 Liquidity Incentives](tokenomics/liquidity-incentives.md)
   * [Governance](tokenomics/governance.md)
-  * [Why Arbitrum?](tokenomics/why-arbitrum.md)
+  * [💙 Why Arbitrum?](tokenomics/why-arbitrum.md)
   * [🎁 Airdrop](tokenomics/airdrop.md)
   * [Where to Purchase $L2DAO](tokenomics/where-to-buy-usdl2dao.md)
 * [✅ Resources](resources/README.md)
