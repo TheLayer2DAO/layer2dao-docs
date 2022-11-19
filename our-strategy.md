@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/Layer2DAOBanner.png
+coverY: 0
+---
+
 # 🎯 Our Strategy
 
 With a continuously growing DAO Treasury and a future stream of income sources, Layer2DAO will partner with promising or established projects that intend to support the Ethereum Layer2 ecosystem to create synergies. \
