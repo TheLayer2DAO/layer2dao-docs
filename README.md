@@ -1,15 +1,12 @@
 ---
-description: >-
-  Layer2DAO is a decentralized autonomous organization focused on driving the
-  the adoption of the Layer2 Ethereum ecosystem.
+description: Welcome to the official Layer2DAO Documentation portal!
 cover: .gitbook/assets/Layer2DAOBanner.png
 coverY: 0
-layout: landing
 ---
 
 # 📚 Layer2DAO Documentation
 
-With the Ethereum merge complete, nearly all Ethereum thought leaders agree that layer2 protocols are key to the future of the Ethereum ecosystem.
+Layer2DAO is a decentralized autonomous organization focused on driving the the adoption of the Layer2 Ethereum ecosystem. With the Ethereum merge complete, nearly all Ethereum thought leaders agree that layer2 protocols are key to the future of the Ethereum ecosystem.
 
 But, adoption has been slow, and the speed of L2 adoption needs to be accelerated. We see the lack of token incentives in many of the L2 projects as a hurdle to them gaining traction. While some projects at the time had successfully launched their own tokens to incentivize adoption (such as Metis and Boba), others (such as Arbitrum) had not. Layer2DAO was born to promote L2 adoption.
 
