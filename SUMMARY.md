@@ -26,7 +26,7 @@
 * [📃 Layer2DAO Smart Contracts](resources/layer2dao-smart-contracts.md)
 * [🫂 Team](resources/team.md)
 
-## LINKS
+## RELEVANT LINKS
 
 * [Twitter](https://twitter.com/TheLayer2DAO)
 * [Discord](https://discord.gg/layer2dao)

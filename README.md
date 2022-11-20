@@ -4,6 +4,7 @@ description: >-
   the adoption of the Layer2 Ethereum ecosystem.
 cover: .gitbook/assets/Layer2DAOBanner.png
 coverY: 0
+layout: landing
 ---
 
 # 📚 Layer2DAO Documentation
