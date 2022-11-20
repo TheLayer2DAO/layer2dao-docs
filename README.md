@@ -1,7 +1,7 @@
 ---
 description: Welcome to the official Layer2DAO Documentation portal!
-cover: .gitbook/assets/Layer2DAOBanner.png
-coverY: 37.60103626943005
+cover: .gitbook/assets/Layer2DAOBanner (1).png
+coverY: 30.26424870466321
 ---
 
 # 📚 Layer2DAO Documentation

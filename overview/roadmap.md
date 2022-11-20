@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/Layer2DAOBanner (1).png
+cover: ../.gitbook/assets/Layer2DAOBanner.png
 coverY: 30.26424870466321
 ---
 

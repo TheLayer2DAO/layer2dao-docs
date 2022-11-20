@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/Layer2DAOBanner.png
-coverY: 0
+cover: ../../.gitbook/assets/Layer2DAOBanner (1).png
+coverY: 31.789608723540734
 ---
 
 # 🏗 Projects
