@@ -1,8 +1,9 @@
 # Table of contents
 
+* [📚 Layer2DAO Documentation](README.md)
+
 ## OVERVIEW
 
-* [📚 Layer2DAO Documentation](README.md)
 * [🎯 Our Strategy](overview/our-strategy.md)
 * [🗺 Roadmap](overview/roadmap.md)
 * [💰 Investments](overview/investments/README.md)
