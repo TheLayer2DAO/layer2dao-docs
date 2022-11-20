@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/Layer2DAOBanner.png
-coverY: 0
+cover: ../.gitbook/assets/Layer2DAOBanner (1).png
+coverY: 30.26424870466321
 ---
 
 # 🗺 Roadmap
