@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/Layer2DAOBanner.png
-coverY: 0
+coverY: 49.523316062176164
 ---
 
 # 🎯 Our Strategy
