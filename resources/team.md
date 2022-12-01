@@ -4,9 +4,9 @@
 
 This is the Layer2DAO team. As we grow and decentralize the DAO, we will be looking to add new team members. Layer2DAO is currently looking for talented individuals, so if you believe you could add value to the DAO, please get in touch!
 
-#### [Exosphere](https://twitter.com/ExosphereL2) (**Project Lead)**
+#### [Exosphere](https://twitter.com/ExosphereL2) (**Project Management and Strategy)**
 
-Exosphere is a product manager who has successfully launched blockchain projects for clients and startups. He also has extensive experience with blockchain infrastructure as an operator of a staking validator business. For Layer2DAO, he oversees the project vision, and coordinates team efforts, and provides insight on core product development.
+Exosphere is a tech entrepreneur who runs multiple software businesses and has successfully launched blockchain projects for clients and startups. He also has extensive experience with blockchain infrastructure as an operator of a staking validator business. For Layer2DAO, he oversees the project vision, and coordinates team efforts, and provides insight on core product development.
 
 #### [Train](https://twitter.com/Layer2Train) **(**Treasury Management and Partnerships)&#x20;
 
