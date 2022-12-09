@@ -26,3 +26,13 @@ Our contracts are forks of Curve’s veCRV contracts, modified slightly by Ribbo
 Vote-escrowed L2DAO (xL2DAO) - Arbitrum: [0xA7AF63b5154eB5d6Fb50a6d70d5C229e5f030AB2 ](https://arbiscan.io/token/0xa7af63b5154eb5d6fb50a6d70d5c229e5f030ab2)
 
 Revenue Share Fee Distributor - Arbitrum: [0xC15DDD98341346A2d2C9bf0187f56666247dF4C6](https://arbiscan.io/address/0xc15ddd98341346a2d2c9bf0187f56666247df4c6)
+
+### Implementation Details
+
+User voting power $$𝑤𝑖$$ is linearly decreasing since the moment of lock. So does the total voting power 𝑊. In order to avoid periodic check-ins, every time the user deposits, or withdraws, or changes the locktime, we record user’s slope and bias for the linear function $$𝑤𝑖(𝑡)$$ in the public mapping `user_point_history`. We also change slope and bias for the total voting power $$𝑊(𝑡)$$ and record it in `point_history`. In addition, when a user’s lock is scheduled to end, we schedule change of slopes of $$𝑊(𝑡)$$ in the future in `slope_changes`. Every change involves increasing the `epoch` by 1.
+
+This way we don’t have to iterate over all users to figure out, how much should $$𝑊(𝑡)$$ change by, neither we require users to check in periodically. However, we limit the end of user locks to times rounded off by whole weeks.
+
+Slopes and biases change both when a user deposits and locks governance tokens, and when the locktime expires. All the possible expiration times are rounded to whole weeks to make number of reads from blockchain proportional to number of missed weeks at most, not number of users (which is potentially large).
+
+For more details, please visit [curve docs](https://curve.readthedocs.io/dao-vecrv.html#querying-balances-locks-and-supply).
