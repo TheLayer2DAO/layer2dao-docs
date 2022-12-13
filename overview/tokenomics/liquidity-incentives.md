@@ -27,3 +27,9 @@ This is our new L2DAO liquidity home on Optimism. This farm has a 7 day vesting 
 
 
 \*We reserve the right to adjust this schedule without notice according to market conditions and exchange rates.
+
+### Inactive Farms
+
+#### Sushi LP Farm (Arbitrum)
+
+You can access the inactive Sushi LP farm here: [https://farm.layer2dao.org/#/farms](https://farm.layer2dao.org/#/farms)
