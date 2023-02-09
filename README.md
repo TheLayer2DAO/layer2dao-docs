@@ -12,7 +12,7 @@ But, adoption has been slow, and the speed of L2 adoption needs to be accelerate
 
 ### Building the Leading Ethereum L2 DAO &#x20;
 
-Layer2DAO is expanding the Ethereum L2 ecosystem and boosting L2 ecosystem projects. The DAO is using its treasury to invest and partner with high-impact L2 protocols and ecosystem plays, serving as a diversified treasury for DAO members looking to gain exposure to the L2 ecosystem growth. It also provides engages in liquidity provisioning, NFT creation, and many other activities that create value and perpetually place proceeds back into the DAO.
+Layer2DAO is expanding the Ethereum L2 ecosystem and boosting L2 ecosystem projects. The DAO is using its treasury to invest and partner with high-impact L2 protocols and ecosystem plays, serving as a diversified treasury for DAO members looking to gain exposure to the L2 ecosystem growth. It also engages in liquidity provisioning, NFT creation, and many other activities that create value and perpetually place proceeds back into the DAO.
 
 Layer2DAO also provides incentives for users to move their funds to L2s and use protocols on those L2s, modeled after other protocols’ successful incentive programs. We plan on particularly supporting projects that have not launched their own token to drive adoption.
 
