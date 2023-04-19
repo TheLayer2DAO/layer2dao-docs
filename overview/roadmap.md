@@ -24,7 +24,7 @@ The first few months since launch have been exciting and we are working hard to 
 * [x] Launch $xL2DAO staking to incentive, align and reward long-term stakers of $L2DAO.
 * [x] **(ongoing)** Build network of partner projects that can benefit from promotion, liquidity, funding, and operational support
 * [x] **(ongoing)** Make strategic investments in partner projects when applicable
-* [ ] Initiate DAO governance once critical mass of token holders and Discord members has been reached
+* [x] Initiate DAO governance once critical mass of token holders and Discord members has been reached
 * [ ] Start and facilitate an L2 council, consisting of representatives from the leading L2 networks
 * [ ] Choose which CEXs to list $L2DAO on.
 
