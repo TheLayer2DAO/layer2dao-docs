@@ -14,12 +14,13 @@ coverY: 30.26424870466321
 * [ ] Reignite .L2 domain sales through new marketing efforts and work with Punk Domains to sell 10,000 .L2 domains&#x20;
 * [ ] Grow non-native treasury assets to 500 ETH or $1,000,000 USD&#x20;
 * [ ] Build 30 new investment and marketing partnerships
-* [ ] Incorporate DAO in the RMI&#x20;
-* [ ] Develop and approve governance framework&#x20;
-* [ ] Build out growth council to 7 members&#x20;
-* [ ] Build out core team to 5 members&#x20;
-* [ ] Publish and approve governance framework&#x20;
-* [ ] Extend main multisig signers to extend beyond founding team&#x20;
+* [ ] DAO decentralization
+  * [ ] Incorporate DAO in the RMI&#x20;
+  * [ ] Develop and approve governance framework&#x20;
+  * [ ] Build out growth council to 7 members&#x20;
+  * [ ] Build out core team to 5 members&#x20;
+  * [ ] Publish and approve governance framework&#x20;
+  * [ ] Extend main multisig signers to extend beyond founding team&#x20;
 
 ### 2022 Roadmap
 
