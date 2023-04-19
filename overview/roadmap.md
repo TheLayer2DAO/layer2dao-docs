@@ -15,7 +15,7 @@ coverY: 30.26424870466321
 * [ ] Grow non-native treasury assets to 500 ETH or $1,000,000 USD&#x20;
 * [ ] Build 30 new investment and marketing partnerships
 * [ ] DAO decentralization
-  * [ ] Incorporate DAO in the RMI&#x20;
+  * [ ] Incorporate DAO in the Republic of the Marshall Islands&#x20;
   * [ ] Develop and approve governance framework&#x20;
   * [ ] Build out growth council to 7 members&#x20;
   * [ ] Build out core team to 5 members&#x20;
