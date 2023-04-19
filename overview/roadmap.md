@@ -5,7 +5,23 @@ coverY: 30.26424870466321
 
 # 🗺 Roadmap
 
-The first few months since launch have been exciting and we are working hard to continue to build the future of Layer2DAO. Here is the roadmap for growing the DAO for the first 12 months:
+### 2023 Roadmap
+
+* [ ] Expand to zkSync Era&#x20;
+* [ ] Expand to Polygon zkEVM&#x20;
+* [ ] Build out governance model for Arbitrum delegate participation
+* [ ] Start and facilitate an L2 council, consisting of representatives from the leading L2 networks and/or projects&#x20;
+* [ ] Reignite .L2 domain sales through new marketing efforts and work with Punk Domains to sell 10,000 .L2 domains&#x20;
+* [ ] Grow non-native treasury assets to 500 ETH or $1,000,000 USD&#x20;
+* [ ] Build 30 new investment and marketing partnerships
+* [ ] Incorporate DAO in the RMI&#x20;
+* [ ] Develop and approve governance framework&#x20;
+* [ ] Build out growth council to 7 members&#x20;
+* [ ] Build out core team to 5 members&#x20;
+* [ ] Publish and approve governance framework&#x20;
+* [ ] Extend main multisig signers to extend beyond founding team&#x20;
+
+### 2022 Roadmap
 
 * [x] Launch Sushi LP liquidity incentive campaign
 * [x] Complete L2DAO airdrop claims by February 28, 2022; unclaimed tokens get returned to treasury
@@ -25,8 +41,6 @@ The first few months since launch have been exciting and we are working hard to 
 * [x] **(ongoing)** Build network of partner projects that can benefit from promotion, liquidity, funding, and operational support
 * [x] **(ongoing)** Make strategic investments in partner projects when applicable
 * [x] Initiate DAO governance once critical mass of token holders and Discord members has been reached
-* [ ] Start and facilitate an L2 council, consisting of representatives from the leading L2 networks
-* [ ] Choose which CEXs to list $L2DAO on.
 
 Through strategic incubation and acceleration, we aim to participate in several projects per year and route a token allocation from these projects directly back into the DAO. On top of receiving token supply, the treasury will also be portfolio managed through various DeFi strategies to optimize returns and further diversify.
 
