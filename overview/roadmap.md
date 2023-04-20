@@ -18,7 +18,6 @@ coverY: 30.26424870466321
   * [ ] Develop and approve governance framework&#x20;
   * [ ] Build out growth council to 7 members&#x20;
   * [ ] Build out core team to 5 members&#x20;
-  * [ ] Publish and approve governance framework&#x20;
   * [ ] Extend main multisig signers to extend beyond founding team&#x20;
 * [ ] Build out governance model for Arbitrum delegate participation
 * [ ] Start and facilitate an L2 council, consisting of representatives from the leading L2 networks and/or projects&#x20;
