@@ -12,10 +12,6 @@ Exosphere is a tech entrepreneur who runs multiple software businesses and has s
 
 Train’s background is in business management and finance. He has over twenty years of experience in management and business development across multiple industries, as well as professionally managing equities and crypto investments. His expertise in understanding market dynamics is a critical piece to Layer2DAO's ability to perform well as an DAO.
 
-#### [**Weston Nelson**](https://twitter.com/westonnelson) **(Treasury Management and Strategy)**
-
-Weston is involved with several DeFi protocols and DAOs, and brings a tremendous level of strategic insight and experience to our team. His background is in traditional finance, most notably time spent at Fidelity Investments where he spent time learning from some of the best asset managers in the world. He is helping to shape the strategic direction of the DAO as well as build new partnerships in the L2 space.&#x20;
-
 #### [iz.rael](https://twitter.com/iz\_raell) (Community Manager)
 
 Izrael helps manage the Layer2DAO Discord and contributes critical ecosystem news to the community regarding anything Layer2 related. He's a passionate L2 user - and looks forward to a future where Ethereum Layer 2 brings financial access to millions of people around the world.&#x20;

@@ -33,4 +33,5 @@ Here are the criteria we apply when selecting and evaluating projects:
 * [x] Saddle Finance Investment and Partnership ($SDL Token)
 * [x] Acre Finance Investment and Partnership ($ACRE Token)
 * [x] Ascension Protocol Investment and Partnership ($ASCEND Token)
+* [x] Vela Exchange ($VLP / $VELA Token) - CLOSED POSITION
 * [ ] New Partnerships To Be Announced Shortly
