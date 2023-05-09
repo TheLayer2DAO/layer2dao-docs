@@ -26,6 +26,10 @@ Here are the criteria we apply when selecting and evaluating projects:
 9. DAO’s community support for the project
 10. Opportunity cost and risk mitigation
 
+### Treasury Holdings
+
+An overview of our treasury holdings can be seen on [Zapper](https://zapper.xyz/bundle/0x7e513bc17073a12bccf1e3dc117c29447f702492%2C0x79ff559431891cfa36fa1e7589c845f2b8831201%2Ceth.layer2dao.org%2C0x5318f07a3a20a2f8bb0ddf14f1dd58c517a76508%2C0xaf5a0068f5465260a1a88a6264d0dce4469609cf?label=L2DAO\&id=0xd7c992910c4d21e21866eb7ed70630f910712d33\&addresses=0x7e513bc17073a12bccf1e3dc117c29447f702492%2C0x79ff559431891cfa36fa1e7589c845f2b8831201%2Ceth.layer2dao.org%2C0x5318f07a3a20a2f8bb0ddf14f1dd58c517a76508%2C0xaf5a0068f5465260a1a88a6264d0dce4469609cf\&tab=dashboard).
+
 ### Completed Investments
 
 * [x] Sperax Investment and Partnership ($SPA Token)
