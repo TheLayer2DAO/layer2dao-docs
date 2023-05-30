@@ -27,5 +27,6 @@ xL2DAO: [0xA7AF63b5154eB5d6Fb50a6d70d5C229e5f030AB2](https://arbiscan.io/token/0
 3. **​**[**0x7e513bc17073a12bccf1e3dc117c29447f702492**](https://arbiscan.io/address/0x7E513Bc17073A12BcCf1E3dc117C29447F702492) **(Arbitrum)**
 4. **​**[**0x79FF559431891cfa36Fa1E7589c845F2B8831201**](https://optimistic.etherscan.io/address/0x79ff559431891cfa36fa1e7589c845f2b8831201) **(Optimism)**
 5. **​**[**0x5318f07A3a20A2f8bb0DDf14F1DD58C517a76508**](https://optimistic.etherscan.io/address/0x5318f07a3a20a2f8bb0ddf14f1dd58c517a76508#code) **(Optimism)**
+6. [**0xefA1b829fc0F594D1fd16A15D18166b42b044c0c**](https://bscscan.com/address/0xefA1b829fc0F594D1fd16A15D18166b42b044c0c) **(BNB)**
 
 \
