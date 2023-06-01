@@ -2,7 +2,9 @@
 
 #### **L2DAO Contract Addresses (Arbitrum and Optimism)** <a href="#l2dao-contract-addresses-arbitrum-and-optimism" id="l2dao-contract-addresses-arbitrum-and-optimism"></a>
 
-**​**[**0x2CaB3abfC1670D1a452dF502e216a66883cDf079**](https://arbiscan.io/address/0x2cab3abfc1670d1a452df502e216a66883cdf079) `(Arbitrum)`**​**[**0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44**](https://optimistic.etherscan.io/address/0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44) `(Optimism)`
+**​**[**0x2CaB3abfC1670D1a452dF502e216a66883cDf079**](https://arbiscan.io/address/0x2cab3abfc1670d1a452df502e216a66883cdf079) `(Arbitrum)`\
+**​**[**0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44**](https://optimistic.etherscan.io/address/0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44) `(Optimism)`**​**\
+[0x2032B3996757A7F5782aa54fcC2C7EbC36697840](https://explorer.zksync.io/address/0x2032B3996757A7F5782aa54fcC2C7EbC36697840#contract) `(zkSync Era)`
 
 #### **xL2DAO Contract Addresses (Arbitrum)** <a href="#xl2dao-contract-addresses-arbitrum" id="xl2dao-contract-addresses-arbitrum"></a>
 
