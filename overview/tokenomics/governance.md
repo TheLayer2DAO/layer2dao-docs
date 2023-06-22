@@ -1,11 +1,9 @@
 # 📜 Governance
 
-Layer2DAO is supervised by our locked version of the protocols native L2DAO token, xL2DAO. xL2DAO gives DAO and community members the ability to govern and guide the DAO in shaping the Ethereum layer2 ecosystem. The token will eventually allow for active involvement in a distributed voting platform for resource appropriation that carefully distributes project funding and rewards. Members such as marketers and influencers will be chosen and rewarded for building awareness and a strong community behind a multitude of launched projects.
+Layer2DAO is controlled by the locked version of the protocol's native L2DAO token, xL2DAO. xL2DAO gives DAO and community members the ability to govern and guide the DAO in shaping the Ethereum Layer2 ecosystem. The token is intended to pave the way for proactive participation in a decentralized voting platform for resource allocation, ensuring fair distribution of project funding and rewards. Essential members, such as marketers and influencers, will be selected and rewarded for their contributions to building awareness and fostering a robust community around a wide range of launched projects.
 
-While community governance is critical to the success of a DAO, we aim to find ways to avoid micro-decisions from being bottle-necked by the DAO governance process. This includes investment decisions that might be front-run if voted on publicly. Therefore, we plan on having token holders elect trusted DAO members to various committees that have a mandate and funding approval.
-
-
+Community governance is paramount to the success of a DAO. However, our objective is to devise strategies that circumvent the bottlenecks of micro-decisions caused by the DAO governance process. This pertains particularly to investment decisions that are susceptible to being preempted if they are subjected to public voting. Consequently, our approach includes the election of trusted DAO members to various committees by token holders, who are then endowed with a mandate and funding approval.
 
 Layer2DAO maintains a verified [Snapshot](https://snapshot.org) Space for conducting DAO governance votes.
 
-Access the Layer2DAO's Space here: [Layer2DAO Snapshot Spacepage](https://snapshot.org/#/layer2dao.org)
+Access the Layer2DAO's Space here: [Layer2DAO Snapshot Space](https://snapshot.org/#/layer2dao.org)
