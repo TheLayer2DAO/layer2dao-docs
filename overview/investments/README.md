@@ -37,5 +37,7 @@ An overview of our treasury holdings can be seen on [Zapper](https://zapper.xyz/
 * [x] Saddle Finance Investment and Partnership ($SDL Token)
 * [x] Acre Finance Investment and Partnership ($ACRE Token)
 * [x] Ascension Protocol Investment and Partnership ($ASCEND Token)
+* [x] Velodrome Investment ($VELO Token)
+* [x] SolidLizard Investment and Partnership ($SLIZ Token)
 * [x] Vela Exchange ($VLP / $VELA Token) - POSITION CLOSED
 * [ ] New Partnerships To Be Announced Shortly
