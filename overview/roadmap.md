@@ -10,11 +10,11 @@ coverY: 30.26424870466321
 * [ ] Grow non-native treasury assets to 500 ETH or $1,000,000 USD&#x20;
 * [ ] Build 30 new investment and marketing partnerships
 * [ ] Reignite .L2 domain sales through new marketing efforts and work with Punk Domains to sell 10,000 .L2 domains&#x20;
-* [ ] Expand to zkSync Era&#x20;
+* [x] Expand to zkSync Era&#x20;
 * [ ] Expand to Polygon zkEVM&#x20;
 * [ ] Evaluate any other promising L2s to expand to as launch plans are announced for 2023
 * [ ] DAO decentralization
-  * [ ] Incorporate DAO in the Republic of the Marshall Islands&#x20;
+  * [x] Incorporate DAO in the Republic of the Marshall Islands&#x20;
   * [ ] Develop and approve governance framework&#x20;
   * [ ] Build out growth council to 7 members&#x20;
   * [ ] Build out core team to 5 members&#x20;
