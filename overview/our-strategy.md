@@ -20,4 +20,4 @@ Layer2DAO benefits from the success of partner projects and the L2 ecosystem as 
 * Boost partners to become category leaders via promotion, liquidity, funding, and operational support
 * Focus on fast execution of ideas; encourage experimentation with interim solutions based on policy, trust, and risk management mechanics; iterate towards the long-term solution involving governance and treasury management technologies
 * Find ways for L2DAO value to be correlated to the whole L2 ecosystem; treat proposals as synergistic, but also a negotiation of economic terms
-* Find ways to avoid micro-decisions from being bottle-necked by the DAO governance process by limiting governance to mandates and funding approvalsl
+* Find ways to avoid micro-decisions from being bottle-necked by the DAO governance process by limiting governance to mandates and funding approvals
