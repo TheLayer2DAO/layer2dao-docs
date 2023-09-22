@@ -29,8 +29,6 @@
 ## RELEVANT LINKS
 
 * [Twitter](https://twitter.com/TheLayer2DAO)
-* [Discord](https://discord.gg/layer2dao)
-* [L2StateOfMind Mint Website](https://l222.www.layer2dao.org/#/)
+* [Discord](https://discord.gg/PTKzgswQRX)
 * [Website](https://www.layer2dao.org/#/)
 * [GitHub](https://github.com/TheLayer2DAO)
-* [Linktree](https://linktr.ee/layer2dao)
