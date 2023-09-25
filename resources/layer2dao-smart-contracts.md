@@ -1,6 +1,6 @@
 # 📃 Layer2DAO Smart Contracts
 
-#### **L2DAO Contract Addresses** <a href="#l2dao-contract-addresses-arbitrum-and-optimism" id="l2dao-contract-addresses-arbitrum-and-optimism"></a>
+#### [https://explorer.zksync.io/address/0x5170475bd1Ea7d35f8975c79F4E475D5De082f2c](https://explorer.zksync.io/address/0x5170475bd1Ea7d35f8975c79F4E475D5De082f2c)[https://explorer.zksync.io/address/0x5170475bd1Ea7d35f8975c79F4E475D5De082f2c](https://explorer.zksync.io/address/0x5170475bd1Ea7d35f8975c79F4E475D5De082f2c)**L2DAO Contract Addresses** <a href="#l2dao-contract-addresses-arbitrum-and-optimism" id="l2dao-contract-addresses-arbitrum-and-optimism"></a>
 
 **​**[0x2CaB3abfC1670D1a452dF502e216a66883cDf079](https://arbiscan.io/address/0x2cab3abfc1670d1a452df502e216a66883cdf079) `(Arbitrum)`\
 ​[0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44](https://optimistic.etherscan.io/address/0xd52f94DF742a6F4B4C8b033369fE13A41782Bf44) `(Optimism)`​\
@@ -30,5 +30,6 @@ xL2DAO: [0xA7AF63b5154eB5d6Fb50a6d70d5C229e5f030AB2](https://arbiscan.io/token/0
 4. **​**[**0x79FF559431891cfa36Fa1E7589c845F2B8831201**](https://optimistic.etherscan.io/address/0x79ff559431891cfa36fa1e7589c845f2b8831201) **(Optimism)**
 5. **​**[**0x5318f07A3a20A2f8bb0DDf14F1DD58C517a76508**](https://optimistic.etherscan.io/address/0x5318f07a3a20a2f8bb0ddf14f1dd58c517a76508#code) **(Optimism)**
 6. [**0xefA1b829fc0F594D1fd16A15D18166b42b044c0c**](https://bscscan.com/address/0xefA1b829fc0F594D1fd16A15D18166b42b044c0c) **(BNB)**
+7. 0x5170475bd1Ea7d35f8975c79F4E475D5De082f2c (zkSync)
 
 \
