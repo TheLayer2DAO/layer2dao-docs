@@ -8,7 +8,8 @@
 
 #### **xL2DAO Contract Addresses (Arbitrum)** <a href="#xl2dao-contract-addresses-arbitrum" id="xl2dao-contract-addresses-arbitrum"></a>
 
-xL2DAO: [0xA7AF63b5154eB5d6Fb50a6d70d5C229e5f030AB2](https://arbiscan.io/token/0xa7af63b5154eb5d6fb50a6d70d5c229e5f030ab2) (Arbitrum)Revenue Sharing Fee Distributor: [0xC15DDD98341346A2d2C9bf0187f56666247dF4C6](https://arbiscan.io/address/0xc15ddd98341346a2d2c9bf0187f56666247df4c6#code) (Arbitrum)
+xL2DAO: [0xA7AF63b5154eB5d6Fb50a6d70d5C229e5f030AB2](https://arbiscan.io/token/0xa7af63b5154eb5d6fb50a6d70d5c229e5f030ab2) (Arbitrum)\
+Revenue Sharing Fee Distributor: [0xC15DDD98341346A2d2C9bf0187f56666247dF4C6](https://arbiscan.io/address/0xc15ddd98341346a2d2c9bf0187f56666247df4c6#code) (Arbitrum)
 
 #### Core Team Tokenlock Contract (Arbitrum) <a href="#core-team-tokenlock-contract-arbitrum" id="core-team-tokenlock-contract-arbitrum"></a>
 
