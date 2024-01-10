@@ -12,14 +12,14 @@ coverY: 30.26424870466321
 * [ ] Reignite .L2 domain sales through new marketing efforts and work with Punk Domains to sell 10,000 .L2 domains&#x20;
 * [x] Expand to zkSync Era&#x20;
 * [ ] Expand to Polygon zkEVM&#x20;
-* [ ] Evaluate any other promising L2s to expand to as launch plans are announced for 2023
+* [x] Evaluate any other promising L2s to expand to as launch plans are announced for 2023
 * [ ] DAO decentralization
   * [x] Incorporate DAO in the Republic of the Marshall Islands&#x20;
   * [ ] Develop and approve governance framework&#x20;
-  * [ ] Build out growth council to 7 members&#x20;
+  * [x] Build out growth council to 7 members&#x20;
   * [ ] Build out core team to 5 members&#x20;
   * [ ] Extend main multisig signers to extend beyond founding team&#x20;
-* [ ] Build out governance model for Arbitrum delegate participation
+* [x] Build out governance model for Arbitrum delegate participation
 * [ ] Start and facilitate an L2 council, consisting of representatives from the leading L2 networks and/or projects&#x20;
 
 ### 2022 Roadmap
