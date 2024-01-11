@@ -14,7 +14,7 @@
 * **​**[**0x7e513bc17073a12bccf1e3dc117c29447f702492**](https://arbiscan.io/address/0x7E513Bc17073A12BcCf1E3dc117C29447F702492) **(Arbitrum - Investment)**
 * **​**[**0x79FF559431891cfa36Fa1E7589c845F2B8831201**](https://optimistic.etherscan.io/address/0x79ff559431891cfa36fa1e7589c845f2b8831201) **(Optimism - Investment)**
 * [**0xefA1b829fc0F594D1fd16A15D18166b42b044c0c**](https://bscscan.com/address/0xefA1b829fc0F594D1fd16A15D18166b42b044c0c) **(BNB - Investment)**
-* 0x5170475bd1Ea7d35f8975c79F4E475D5De082f2c (zkSync - Investment)
+* **0x5170475bd1Ea7d35f8975c79F4E475D5De082f2c (zkSync - Investment)**
 
 #### **xL2DAO Contract Addresses (Arbitrum)** <a href="#xl2dao-contract-addresses-arbitrum" id="xl2dao-contract-addresses-arbitrum"></a>
 
