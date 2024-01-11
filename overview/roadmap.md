@@ -5,6 +5,10 @@ coverY: 30.26424870466321
 
 # 🗺 Roadmap
 
+### 2024 Roadmap
+
+Currently in development...
+
 ### 2023 Roadmap
 
 * [ ] Grow non-native treasury assets to 500 ETH or $1,000,000 USD&#x20;
