@@ -25,14 +25,12 @@ Revenue Sharing Fee Distributor: [0xC15DDD98341346A2d2C9bf0187f56666247dF4C6](ht
 
 **​**[**0x90dfEfDc18FC0Ecd356b69b3fC21Ffef5896FA8D**](https://arbiscan.io/address/0x90dfefdc18fc0ecd356b69b3fc21ffef5896fa8d) **(Arbitrum)**
 
-#### .L2 Domain NFT Contract (Optimism) <a href="#l2-domain-nft-contract-optimism" id="l2-domain-nft-contract-optimism"></a>
-
-​[**0x9A7657d1593032C75d70950707870c3cC7ca45DC**](https://optimistic.etherscan.io/address/0x9a7657d1593032c75d70950707870c3cc7ca45dc) **(Optimism)**
-
 #### L2StateOfMind NFT (Optimism) <a href="#l2stateofmind-nft-optimism" id="l2stateofmind-nft-optimism"></a>
 
 ​[0x66Deb6cC4d65dc9CB02875DC5E8751d71Fa5D50E](https://optimistic.etherscan.io/address/0x66Deb6cC4d65dc9CB02875DC5E8751d71Fa5D50E) **(Optimism)**
 
-1.
+#### .L2 Domain NFT Contract (Optimism) <a href="#l2-domain-nft-contract-optimism" id="l2-domain-nft-contract-optimism"></a>
+
+​[**0x9A7657d1593032C75d70950707870c3cC7ca45DC**](https://optimistic.etherscan.io/address/0x9a7657d1593032c75d70950707870c3cc7ca45dc) **(Optimism)**
 
 \
