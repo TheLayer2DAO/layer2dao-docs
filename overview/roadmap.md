@@ -7,15 +7,22 @@ coverY: 30.26424870466321
 
 ### 2024 Roadmap
 
-Currently in development...
+* [ ] Grow non-native treasury assets to 500 ETH or $1,000,000 USD&#x20;
+* [ ] Build 30 new investment and marketing partnerships&#x20;
+* [ ] Expand to Polygon zkEVM&#x20;
+* [ ] Evaluate any other promising L2s to expand to as launch plans are announced for 2024&#x20;
+* [ ] Start and facilitate an L2 council, consisting of representatives from the leading L2 networks and/or projects&#x20;
+* [ ] Transition growth council to governing council&#x20;
+* [ ] Find permanent solution to avoid token bridge limitations&#x20;
+* [ ] Finish expansion to Base&#x20;
+* [ ] Expand to Stacks blockchain&#x20;
+* [ ] Grow L2DAO stakers by 1000&#x20;
+* [ ] Enhance community education opportunities (Twitter, Discord etc.)
 
 ### 2023 Roadmap
 
-* [ ] Grow non-native treasury assets to 500 ETH or $1,000,000 USD&#x20;
 * [x] Build 30 new investment and marketing partnerships
-* [ ] Reignite .L2 domain sales through new marketing efforts and work with Punk Domains to sell 10,000 .L2 domains&#x20;
 * [x] Expand to zkSync Era&#x20;
-* [ ] Expand to Polygon zkEVM&#x20;
 * [x] Evaluate any other promising L2s to expand to as launch plans are announced for 2023
 * [x] DAO decentralization
   * [x] Incorporate DAO in the Republic of the Marshall Islands&#x20;
@@ -24,7 +31,6 @@ Currently in development...
   * [ ] Build out core team to 5 members&#x20;
   * [x] Extend main multisig signers to extend beyond founding team&#x20;
 * [x] Build out governance model for Arbitrum delegate participation
-* [ ] Start and facilitate an L2 council, consisting of representatives from the leading L2 networks and/or projects&#x20;
 
 ### 2022 Roadmap
 
